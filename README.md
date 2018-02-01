@@ -1,2 +1,6 @@
-# free-services
-Free services I like to use
+# Free Services
+**Video Editing**
+
+ - HitFilm - Advanced, many features
+ - Windows Movie Maker - Simple, very little features
+ 
