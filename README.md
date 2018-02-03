@@ -13,3 +13,7 @@ Stuff to use if your on a budget
  **Web Hosting**
  - Github - Many features, no database/php, easy to use
  - ByteHost - Many features, unlimited, php,database
+ 
+  **Operating Systems**
+ - Linux Mint - Lots of features, easy  to use, does everything Windows can do.
+ - ByteHost - Many features, unlimited, php,database
