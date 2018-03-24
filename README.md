@@ -1,6 +1,7 @@
 ## Free Stuff
 ----------
 Stuff to use if your on a budget
+
 **Video Editing**
 
  - HitFilm - Advanced, many features
@@ -16,4 +17,4 @@ Stuff to use if your on a budget
  
   **Operating Systems**
  - Linux Mint - Lots of features, easy  to use, does everything Windows can do.
- - ByteHost - Many features, unlimited, php,database
+ - Puppy Linux - Light, supports all hardware.
