@@ -4,11 +4,13 @@ Stuff to use if your on a budget
 
 **Video Editing**
 
- - HitFilm - Advanced, many features
+ - HitFilm - Advanced, many features, needs beefy hardware
+ - Lightworks - Free, works on average budget computers
  - Windows Movie Maker - Simple, very little features
  
 **Code Editing**
  - Sublime Text - Easy to use, many features
+ - Notepad++ - Mehhhh
  - Notepad/Textedit - Boring, barely any features
 
  **Web Hosting**
