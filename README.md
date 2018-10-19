@@ -1,6 +1,6 @@
 ## Free Stuff
 ----------
-Stuff to use if your on a budget
+The best free stuff on the internets.
 
 **Video Editing**
 
@@ -20,3 +20,4 @@ Stuff to use if your on a budget
   **Operating Systems**
  - Linux Mint - Lots of features, easy  to use, does everything Windows can do.
  - Puppy Linux - Light, supports all hardware.
+ - Windows 10 - Best for gaming, has watermark in bottom right corner when using free version.
