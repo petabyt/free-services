@@ -27,3 +27,7 @@ The best free stuff on the internets.
 **CMS**
 - Bubble.is - Data management, really cool stuff
 - Wix - Easy to use, TONS of ads
+
+**News**
+- Fox - REAL news, smart people
+- Pew News - News for gamers and meme stuff
